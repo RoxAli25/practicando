@@ -19,7 +19,6 @@ public class VerificacionDeDescuento {
             System.out.println("Descuento NO se aplica su total a pagar es:\n " + montoCompra + "$");
         }
 
-
-
+        scanner.close();
     }
 }
